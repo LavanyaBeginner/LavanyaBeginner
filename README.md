@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LavanyaBeginner
+- 👋 Hi, I’m Lavanya and I am a Beginner.
 - 👀 I’m interested in Computer Science! 
 
 <!---
